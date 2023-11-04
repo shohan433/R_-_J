@@ -1,0 +1,22 @@
+header background color -> #0f2f44
+header font family -> opensans
+nav hover text color -> #ffc712
+nav background hover color -> #fff9e6
+banner our ambition color-> #aab0d8
+banner button color-> #8484bf
+service left part color-> #e9e9e9
+service right part color-> #eeeeee
+testimonial part item bg color-> #e9e9e9
+
+
+
+
+
+
+
+
+
+
+font-family: 'Open Sans', sans-serif;
+
+font-family: 'Abril Fatface', cursive;
